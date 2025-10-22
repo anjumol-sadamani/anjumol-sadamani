@@ -2,7 +2,7 @@
 
  I specialize in designing and developing distributed systems
 
-- 💬 Ask me about ** Java, Nodejs, Golang Distributed Systems**
+- 💬 Ask me about **Java, Spring Boot, Kafka, Microservices, Distributed Systems**
 - 📫 How to reach me: anjumolms@gmail.com
 
 
